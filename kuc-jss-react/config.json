@@ -1,0 +1,19 @@
+{
+    "appID": 12,
+    "appName": "kuc-jss-react",
+    "type": "Customization",
+    "scope": "ALL",
+    "uploadConfig": {
+        "desktop": {
+            "js": [
+                "kuc-jss-react/dist/kuc-jss-react.min.js"
+            ],
+            "css": []
+        },
+        "mobile": {
+            "js": [
+                "kuc-jss-react/dist/kuc-jss-react.min.js"
+            ]
+        }
+    }
+}
